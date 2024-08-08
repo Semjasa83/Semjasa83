@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Semjasa83
 - 👀 I’m interested in motorsports, coding, technology.
-- 🌱 I’m currently learning coding with Javascript, HTML/CSS, Angular and more.
+- 🌱 I’m currently improve coding with Javascript/Typescript, HTML/CSS, Angular, Vue and more.
 - 📫 How to reach me, you will find out.
 
 <!---
